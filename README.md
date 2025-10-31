@@ -1,4 +1,4 @@
-# Name-Of-Your-Radio-App
+# Radio ROKS Alarm
 
 ## Radio Link
 [Radio ROKS](https://online.radioroks.ua/RadioROKS_HD)
