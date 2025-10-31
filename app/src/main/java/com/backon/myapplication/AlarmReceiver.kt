@@ -30,5 +30,7 @@ class AlarmReceiver : BroadcastReceiver() {
         Log.d("AlarmReceiver", "Alarm triggered, starting service.")
         val serviceIntent = Intent(context, RadioPlayerService::class.java)
         context.startForegroundService(serviceIntent)
+        Log.d("YL", "test log");
+        //add the test log; 
     }
 }
